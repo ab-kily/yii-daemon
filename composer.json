@@ -1,0 +1,18 @@
+{
+    "name": "d4rkstar/yii-daemon",
+    "description": "Yii extension to add support to deamonize application .",
+    "keywords": ["yii", "daemon"],
+    "type": "library",
+    "authors": [
+        {
+            "name": "Igor Maliy (filsh)"
+        },
+        {
+            "name": "Bruno Salzano",
+            "email": "d4rkstar@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "yiisoft/yii": ">=1.1.0"
+    }
+}
